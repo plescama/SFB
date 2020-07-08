@@ -1,0 +1,41 @@
+﻿List,Item,Satz,Ask,Wort,Bild1,Bild2,Type
+1,1,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Kleidung</b> ?,Kleidung.jpg,Klamotten.jpg,Standard_Reg
+1,2,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Schuhe </b> ?,Schuhe.jpg,Latschen.jpg,Standard_Reg
+1,3,Welches Bild passt am besten f&uuml;r das Wort,?, <b>Wohnung </b> ?,Wohnung.jpg,Behausung.jpg,Standard_Reg
+1,4,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Ohren </b> ?,Ohren.jpg,Lauscher.jpg,Standard_Reg
+1,5,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Gem&auml;cher</b> ?,Gemaecher.jpg,Kammern.jpg,Standard_Reg
+1,6,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Tassen </b> ?,Tassen.jpg,Poette.jpg,Standard_Reg
+1,7,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Fahrrad </b> ?,Fahrrad.jpg,Stahlross.jpg,Standard_Reg
+1,8,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Gem&uuml;se </b>?,Gemuese.jpg,Gruenzeug.jpg,Standard_Reg
+1,9,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Autos </b> ?,Autos.jpg,Karren.jpg,Standard_Reg
+1,10,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Beine </b> ?,Beine.jpg,Stelzen.jpg,Standard_Reg
+1,11,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Hosen </b> ?,Hosen.jpg,Buxen.jpg,Standard_Reg
+1,12,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Pferde </b> ?,Pferde.jpg,Gaule.jpg,Standard_Reg
+1,13,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Butterbrote </b> ?,Butterbrote.jpg,Schnitten.jpg,Standard_Reg
+1,14,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Fingern&auml;gel </b> ?,Fingernaegel.jpg,Klauen.jpg,Standard_Reg
+1,15,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Essen </b> ?,Essen.jpg,Futter.jpg,Standard_Reg
+1,16,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Geld </b> ?,Geld.jpg,Moos.jpg,Standard_Reg
+1,17,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Tier </b> ?,Tier.jpg,Vieg.jpg,Standard_Reg
+1,18,Welches Bild passt am besten f&uuml;r das Wort,?,<b>WC </b> ?,WC.jpg,Klo.jpg,Standard_Reg
+1,19,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Antrag </b> ?,Antrag.jpg,Wisch.jpg,Standard_Reg
+1,20,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Champagner</b> ?,Champagner.jpg,Schampus.jpg,Standard_Reg
+1,21,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Bauch </b> ?,Bauch.jpg,Wanst.jpg,Standard_Reg
+1,22,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Hund </b> ?,Hund.jpg,Koeter.jpg,Standard_Reg
+1,23,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Haare </b> ?,Haare.jpg,Maehne.jpg,Standard_Reg
+1,24,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Flasche</b> ?,Flasche.jpg,Pulle.jpg,Standard_Reg
+1,25,Welches Bild passt am besten f&uuml;r das Wort,?,<b>F&uuml;&szlig;e </b> ?,Fuesse.jpg,Mauken.jpg,Standard_Reg
+1,26,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Residenz </b> ?,Residenz.jpg,Bude.jpg,Standard_Reg
+1,27,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Kleider</b> ?,Kleider.jpg,Fummel.jpg,Standard_Reg
+1,28,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Geige </b> ?,Geige.jpg,Fiedel.jpg,Standard_Reg
+1,29,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Zigarre</b> ?,Zigarre.jpg,Kippe.jpg,Standard_Reg
+1,30,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Sch&auml;nke</b> ?,Schaenke.jpg,Kneipe.jpg,Standard_Reg
+1,31,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Pistole</b> ?,Pistole.jpg,Knarre.jpg,Standard_Reg
+1,32,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Arznei</b> ?,Arznei.jpg,Pillen.jpg,Standard_Reg
+1,33,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Schorle</b> ?,Schorle.jpg,Brause.jpg,Standard_Reg
+1,34,Welches Bild passt am besten f&uuml;r das Wort,?,<b>B&uuml;cher</b>  ?,Buecher.jpg,Waelzer.jpg,Standard_Reg
+1,35,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Augen</b> ?,Augen.jpg,Glubscher.jpg,Standard_Reg
+1,36,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Lampe </b> ?,Lampe.jpg,Funzel.jpg,Standard_Reg
+1,37,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Finger</b> ?,Finger.jpg,Griffel.jpg,Standard_Reg
+1,38,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Getr&auml;nke</b> ?,Getraenke.jpg,Pluerre.jpg,Standard_Reg
+1,39,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Hausschuhe</b> ?,Hausschuhe.jpg,Schlappen.jpg,Standard_Reg
+1,40,Welches Bild passt am besten f&uuml;r das Wort,?,<b>Pension </b> ? ,Pension.jpg,Absteige.jpg,Standard_Reg

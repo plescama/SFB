@@ -1,0 +1,762 @@
+#
+# Results on Wednesday June 03 2020 09:14:19 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Form,1,0,intro,NULL,name,rg
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Form,1,0,intro,NULL,age,45
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Form,1,0,intro,NULL,write_something,grdeged
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Form,1,0,intro,NULL,credit,yes
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Form,1,0,intro,NULL,consent,yes
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Form,1,0,intro,NULL,sex,male
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Form,1,0,intro,NULL,_REACTION_TIME_,16738
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,1,This,437,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,2,is,474,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,3,a,300,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,4,practice,254,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,5,sentence,276,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,6,to,274,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,7,get,222,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,8,you,251,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,9,used,259,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,10,to,289,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,11,reading,318,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,12,sentences,280,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,13,like,281,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,2,0,practice,NULL,14,this.,341,False,This is a practice sentence to get you used to reading sentences like this.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,1,This,287,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,2,is,193,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,3,another,316,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,4,practice,487,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,5,sentence,267,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,6,with,193,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,7,a,337,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,8,practice,266,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,9,question,225,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,10,following,285,False,This is another practice sentence with a practice question following it.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,3,0,practice,NULL,11,it.,447,False,This is another practice sentence with a practice question following it.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Question,3,1,practice,NULL,How would you like to answer this question?,Press 1 or click here for this answer.,NULL,1955
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,1,This,272,False,This is the last practice sentence before the experiment begins.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,2,is,301,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,3,the,300,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,4,last,240,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,5,practice,211,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,6,sentence,206,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,7,before,256,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,8,the,254,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,9,experiment,307,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,4,0,practice,NULL,10,begins.,336,False,This is the last practice sentence before the experiment begins.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,1,The,321,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,2,teacher,260,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,3,helped,211,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,4,struggling,190,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,5,students,378,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,6,who,415,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,7,without,340,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,8,treating,312,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,9,like,315,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,10,idiots,351,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,11,he,366,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,12,encouraged,376,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,13,to,326,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,10,0,s2,2,14,succeed.,460,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Question,10,1,s2,2,What did the teacher do?,Encourage struggling students to succeed,1,5671
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,1,The,260,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,2,journalist,285,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,3,interviewed,366,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,4,an,431,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,5,actress,481,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,6,who,496,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,7,he,387,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,8,knew,295,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,9,to,344,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,10,be,404,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,11,shy,300,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,12,of,286,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,13,publicity,334,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,14,after,354,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,15,meeting,380,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,16,on,359,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,17,a,382,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,18,previous,345,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,DashedSentence,5,0,s1,1,19,occasion.,373,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,Question,5,1,s1,1,The actress was:,shy,1,2518
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,AcceptabilityJudgment,12,0,q2,200,<b>Which struggling students</b> did the teacher encourage their friends to succeed without treating like idiots?
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,AcceptabilityJudgment,12,0,q2,200,NULL,3,NULL,6959
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,AcceptabilityJudgment,7,0,q1,100,Which actress did the journalist interview after meeting her PA on a previous occasion?
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1591175660,fb05b3a06a578b46f53c4c29d7c729b2,AcceptabilityJudgment,7,0,q1,100,NULL,7,NULL,9660
+#
+# Results on Thursday June 04 2020 10:23:27 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+# Design number was non-random = 97
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ItemNum.
+# 14. List.
+# 15. Listtype.
+# 16. Wort.
+# 17. Comments.
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,34,0,experiment,NULL,PennController,35,_Trial_,Start,1591266211605,34,1,Standard_Reg,B&uuml;cher,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,34,0,experiment,NULL,Button,833ab545-3c2f-9556-e07f-ffaa463a3e6f,Click,Click,1591266214204,34,1,Standard_Reg,B&uuml;cher,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,34,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1591266214210,34,1,Standard_Reg,B&uuml;cher,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,34,0,experiment,NULL,Selector,select_once,Selection,Bild2,1591266214776,34,1,Standard_Reg,B&uuml;cher,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,34,0,experiment,NULL,PennController,35,_Trial_,End,1591266215100,34,1,Standard_Reg,B&uuml;cher,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,35,0,experiment,NULL,PennController,36,_Trial_,Start,1591266215104,35,1,Standard_Reg,Augen,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,35,0,experiment,NULL,Button,605fb60a-d3d8-2666-2a7b-54450475133b,Click,Click,1591266221384,35,1,Standard_Reg,Augen,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,35,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1591266221393,35,1,Standard_Reg,Augen,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,35,0,experiment,NULL,Selector,select_once,Selection,Bild2,1591266223995,35,1,Standard_Reg,Augen,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,35,0,experiment,NULL,PennController,36,_Trial_,End,1591266224307,35,1,Standard_Reg,Augen,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,36,0,experiment,NULL,PennController,37,_Trial_,Start,1591266224310,36,1,Standard_Reg,Lampe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,36,0,experiment,NULL,Button,c98e0a49-bc0f-693c-7060-0b97e3b6b8ac,Click,Click,1591266226992,36,1,Standard_Reg,Lampe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,36,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1591266226998,36,1,Standard_Reg,Lampe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,36,0,experiment,NULL,Selector,select_once,Selection,Bild2,1591266227830,36,1,Standard_Reg,Lampe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,36,0,experiment,NULL,PennController,37,_Trial_,End,1591266228138,36,1,Standard_Reg,Lampe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,37,0,experiment,NULL,PennController,38,_Trial_,Start,1591266228139,37,1,Standard_Reg,Finger,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,37,0,experiment,NULL,Button,16591114-0278-faf3-c31b-14b858bcea08,Click,Click,1591266230915,37,1,Standard_Reg,Finger,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,37,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1591266230921,37,1,Standard_Reg,Finger,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,37,0,experiment,NULL,Selector,select_once,Selection,Bild2,1591266231772,37,1,Standard_Reg,Finger,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,37,0,experiment,NULL,PennController,38,_Trial_,End,1591266232086,37,1,Standard_Reg,Finger,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,38,0,experiment,NULL,PennController,39,_Trial_,Start,1591266232088,38,1,Standard_Reg,Getr&auml;nke,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,38,0,experiment,NULL,Button,e4468b93-a29c-0a10-3e93-81619e0ec87a,Click,Click,1591266234574,38,1,Standard_Reg,Getr&auml;nke,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,38,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1591266234579,38,1,Standard_Reg,Getr&auml;nke,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,38,0,experiment,NULL,Selector,select_once,Selection,Bild2,1591266235836,38,1,Standard_Reg,Getr&auml;nke,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,38,0,experiment,NULL,PennController,39,_Trial_,End,1591266236150,38,1,Standard_Reg,Getr&auml;nke,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,39,0,experiment,NULL,PennController,40,_Trial_,Start,1591266236154,39,1,Standard_Reg,Hausschuhe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,39,0,experiment,NULL,Button,d7be32e6-44ca-ec75-9f20-52fb0f3d4051,Click,Click,1591266238760,39,1,Standard_Reg,Hausschuhe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,39,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1591266238768,39,1,Standard_Reg,Hausschuhe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,39,0,experiment,NULL,Selector,select_once,Selection,Bild2,1591266239860,39,1,Standard_Reg,Hausschuhe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,39,0,experiment,NULL,PennController,40,_Trial_,End,1591266240165,39,1,Standard_Reg,Hausschuhe,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,40,0,experiment,NULL,PennController,41,_Trial_,Start,1591266240167,40,1,Standard_Reg,Pension,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,40,0,experiment,NULL,Button,22471846-a0ae-84e3-7369-1315370205cf,Click,Click,1591266242849,40,1,Standard_Reg,Pension,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,40,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1591266242856,40,1,Standard_Reg,Pension,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,40,0,experiment,NULL,Selector,select_once,Selection,Bild2,1591266243720,40,1,Standard_Reg,Pension,NULL
+1591266208,86ded994e6989a15215bdf8733956d3f,PennController,40,0,experiment,NULL,PennController,41,_Trial_,End,1591266244030,40,1,Standard_Reg,Pension,NULL
+#
+# Results on Wednesday June 24 2020 08:13:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+# Design number was non-random = 98
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1592986166600,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,0,0,welcome,NULL,Html,consentInfo,infoblatt,checked,1592986237067,checkbox
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,0,0,welcome,NULL,Html,consentInfo,einwilligung,checked,1592986237067,checkbox
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,0,0,welcome,NULL,Html,VPInfo,Alter,23,1592986237067,text input
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,0,0,welcome,NULL,Html,VPInfo,Geschlecht,female,1592986237067,radio button
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,0,0,welcome,NULL,Html,VPInfo,Hand,right,1592986237067,radio button
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1592986237069,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,PennController,1,_Trial_,Start,1592986237078,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,Button,5ec97653-3c3f-6598-94ee-d417faba3f30,Click,Click,1592986246834,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,Canvas,canvas3,Print,NA,1592986246843,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,Selector,pickme1,Selection,Teller2,1592986247720,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,Button,a7b39a13-9b23-2106-2947-7d5da169b76f,Click,Click,1592986249856,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,Canvas,canvas2,Print,NA,1592986249863,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,Selector,pickme2,Selection,Kuchen1,1592986250583,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,Key,404e4d8e-5228-27ff-678d-e99c35130845,PressedKey, ,1592986253070,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,1,0,practice,NULL,PennController,1,_Trial_,End,1592986253078,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ItemNum.
+# 14. List.
+# 15. Listtype.
+# 16. Wort.
+# 17. Comments.
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,2,0,experiment,NULL,PennController,3,_Trial_,Start,1592986253089,1,1,Standard_Reg,Kleidung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,2,0,experiment,NULL,Button,b6009eda-0e4f-d138-f09d-a96fed4c054c,Click,Click,1592986255618,1,1,Standard_Reg,Kleidung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,2,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986255624,1,1,Standard_Reg,Kleidung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,2,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986256724,1,1,Standard_Reg,Kleidung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,2,0,experiment,NULL,PennController,3,_Trial_,End,1592986257053,1,1,Standard_Reg,Kleidung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,3,0,experiment,NULL,PennController,4,_Trial_,Start,1592986257063,2,1,Standard_Reg,Schuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,3,0,experiment,NULL,Button,088a0dd6-2fcc-1bac-b8c7-4c70d6bf6fea,Click,Click,1592986259570,2,1,Standard_Reg,Schuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,3,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986259577,2,1,Standard_Reg,Schuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,3,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986261207,2,1,Standard_Reg,Schuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,3,0,experiment,NULL,PennController,4,_Trial_,End,1592986261525,2,1,Standard_Reg,Schuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,4,0,experiment,NULL,PennController,5,_Trial_,Start,1592986261539,3,1,Standard_Reg,Wohnung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,4,0,experiment,NULL,Button,65038eb3-4815-b1e6-37ee-75cd2b0e0501,Click,Click,1592986264231,3,1,Standard_Reg,Wohnung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,4,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986264238,3,1,Standard_Reg,Wohnung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,4,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986265270,3,1,Standard_Reg,Wohnung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,4,0,experiment,NULL,PennController,5,_Trial_,End,1592986265578,3,1,Standard_Reg,Wohnung,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,5,0,experiment,NULL,PennController,6,_Trial_,Start,1592986265587,4,1,Standard_Reg,Ohren,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,5,0,experiment,NULL,Button,3d8b1daf-b197-7c27-ff85-2a94da684bc5,Click,Click,1592986268116,4,1,Standard_Reg,Ohren,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,5,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986268123,4,1,Standard_Reg,Ohren,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,5,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986269840,4,1,Standard_Reg,Ohren,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,5,0,experiment,NULL,PennController,6,_Trial_,End,1592986270148,4,1,Standard_Reg,Ohren,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,6,0,experiment,NULL,PennController,7,_Trial_,Start,1592986270157,5,1,Standard_Reg,Gem&auml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,6,0,experiment,NULL,Button,a91b62e1-58ff-ec18-b962-49c6d0e3c186,Click,Click,1592986272716,5,1,Standard_Reg,Gem&auml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,6,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986272722,5,1,Standard_Reg,Gem&auml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,6,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986273498,5,1,Standard_Reg,Gem&auml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,6,0,experiment,NULL,PennController,7,_Trial_,End,1592986273810,5,1,Standard_Reg,Gem&auml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,7,0,experiment,NULL,PennController,8,_Trial_,Start,1592986273820,6,1,Standard_Reg,Tassen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,7,0,experiment,NULL,Button,69dc1066-b3da-d1c3-8acb-9e86cbf3aefa,Click,Click,1592986276327,6,1,Standard_Reg,Tassen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,7,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986276332,6,1,Standard_Reg,Tassen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,7,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986277342,6,1,Standard_Reg,Tassen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,7,0,experiment,NULL,PennController,8,_Trial_,End,1592986277661,6,1,Standard_Reg,Tassen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,8,0,experiment,NULL,PennController,9,_Trial_,Start,1592986277672,7,1,Standard_Reg,Fahrrad,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,8,0,experiment,NULL,Button,6950a634-758a-7cc0-d37d-ae44301bbbdc,Click,Click,1592986280294,7,1,Standard_Reg,Fahrrad,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,8,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986280300,7,1,Standard_Reg,Fahrrad,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,8,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986280903,7,1,Standard_Reg,Fahrrad,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,8,0,experiment,NULL,PennController,9,_Trial_,End,1592986281209,7,1,Standard_Reg,Fahrrad,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,9,0,experiment,NULL,PennController,10,_Trial_,Start,1592986281220,8,1,Standard_Reg,Gem&uuml;se,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,9,0,experiment,NULL,Button,0d097ec5-cb1a-eda6-ccaa-4d6445c81835,Click,Click,1592986283912,8,1,Standard_Reg,Gem&uuml;se,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,9,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986283917,8,1,Standard_Reg,Gem&uuml;se,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,9,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986285815,8,1,Standard_Reg,Gem&uuml;se,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,9,0,experiment,NULL,PennController,10,_Trial_,End,1592986286121,8,1,Standard_Reg,Gem&uuml;se,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,10,0,experiment,NULL,PennController,11,_Trial_,Start,1592986286130,9,1,Standard_Reg,Autos,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,10,0,experiment,NULL,Button,26ca29f8-c602-9c76-8cab-5935077761e7,Click,Click,1592986288828,9,1,Standard_Reg,Autos,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,10,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986288834,9,1,Standard_Reg,Autos,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,10,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986289282,9,1,Standard_Reg,Autos,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,10,0,experiment,NULL,PennController,11,_Trial_,End,1592986289586,9,1,Standard_Reg,Autos,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,11,0,experiment,NULL,PennController,12,_Trial_,Start,1592986289595,10,1,Standard_Reg,Beine,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,11,0,experiment,NULL,Button,06c79d10-062e-6218-54b3-d7f8db25c692,Click,Click,1592986292499,10,1,Standard_Reg,Beine,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,11,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986292504,10,1,Standard_Reg,Beine,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,11,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986293579,10,1,Standard_Reg,Beine,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,11,0,experiment,NULL,PennController,12,_Trial_,End,1592986293885,10,1,Standard_Reg,Beine,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,12,0,experiment,NULL,PennController,13,_Trial_,Start,1592986293892,11,1,Standard_Reg,Hosen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,12,0,experiment,NULL,Button,3a708090-16bb-7e8b-36f7-72dff65427f7,Click,Click,1592986296638,11,1,Standard_Reg,Hosen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,12,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986296644,11,1,Standard_Reg,Hosen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,12,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986297186,11,1,Standard_Reg,Hosen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,12,0,experiment,NULL,PennController,13,_Trial_,End,1592986297500,11,1,Standard_Reg,Hosen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,13,0,experiment,NULL,PennController,14,_Trial_,Start,1592986297506,12,1,Standard_Reg,Pferde,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,13,0,experiment,NULL,Button,487d4c57-c4a4-d30c-8836-2f21ec57d0aa,Click,Click,1592986300479,12,1,Standard_Reg,Pferde,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,13,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986300485,12,1,Standard_Reg,Pferde,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,13,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986301284,12,1,Standard_Reg,Pferde,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,13,0,experiment,NULL,PennController,14,_Trial_,End,1592986301593,12,1,Standard_Reg,Pferde,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,14,0,experiment,NULL,PennController,15,_Trial_,Start,1592986301600,13,1,Standard_Reg,Butterbrote,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,14,0,experiment,NULL,Button,f64572d2-7b06-2c62-d33f-07a886dafb52,Click,Click,1592986304133,13,1,Standard_Reg,Butterbrote,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,14,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986304138,13,1,Standard_Reg,Butterbrote,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,14,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986305430,13,1,Standard_Reg,Butterbrote,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,14,0,experiment,NULL,PennController,15,_Trial_,End,1592986305746,13,1,Standard_Reg,Butterbrote,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,15,0,experiment,NULL,PennController,16,_Trial_,Start,1592986305754,14,1,Standard_Reg,Fingern&auml;gel,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,15,0,experiment,NULL,Button,f9aa1959-8801-9865-573b-e0c82cad3f60,Click,Click,1592986308310,14,1,Standard_Reg,Fingern&auml;gel,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,15,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986308315,14,1,Standard_Reg,Fingern&auml;gel,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,15,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986309323,14,1,Standard_Reg,Fingern&auml;gel,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,15,0,experiment,NULL,PennController,16,_Trial_,End,1592986309628,14,1,Standard_Reg,Fingern&auml;gel,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,16,0,experiment,NULL,PennController,17,_Trial_,Start,1592986309633,15,1,Standard_Reg,Essen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,16,0,experiment,NULL,Button,d254b1da-ae49-2000-d7f9-44692f5cc709,Click,Click,1592986312102,15,1,Standard_Reg,Essen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,16,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986312108,15,1,Standard_Reg,Essen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,16,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986313700,15,1,Standard_Reg,Essen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,16,0,experiment,NULL,PennController,17,_Trial_,End,1592986314009,15,1,Standard_Reg,Essen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,17,0,experiment,NULL,PennController,18,_Trial_,Start,1592986314017,16,1,Standard_Reg,Geld,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,17,0,experiment,NULL,Button,719d7120-6e80-b32f-43c5-69eca98a9a9f,Click,Click,1592986316880,16,1,Standard_Reg,Geld,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,17,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986316885,16,1,Standard_Reg,Geld,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,17,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986318190,16,1,Standard_Reg,Geld,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,17,0,experiment,NULL,PennController,18,_Trial_,End,1592986318499,16,1,Standard_Reg,Geld,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,18,0,experiment,NULL,PennController,19,_Trial_,Start,1592986318509,17,1,Standard_Reg,Tier,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,18,0,experiment,NULL,Button,7c6ed79c-4f3a-2768-8d8e-eaceac3223d5,Click,Click,1592986321110,17,1,Standard_Reg,Tier,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,18,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986321116,17,1,Standard_Reg,Tier,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,18,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986321473,17,1,Standard_Reg,Tier,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,18,0,experiment,NULL,PennController,19,_Trial_,End,1592986321777,17,1,Standard_Reg,Tier,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,19,0,experiment,NULL,PennController,20,_Trial_,Start,1592986321787,18,1,Standard_Reg,WC,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,19,0,experiment,NULL,Button,b29ca7a4-d746-b630-0e91-b1d4c736f9b7,Click,Click,1592986324522,18,1,Standard_Reg,WC,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,19,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986324528,18,1,Standard_Reg,WC,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,19,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986325574,18,1,Standard_Reg,WC,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,19,0,experiment,NULL,PennController,20,_Trial_,End,1592986325884,18,1,Standard_Reg,WC,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,20,0,experiment,NULL,PennController,21,_Trial_,Start,1592986325890,19,1,Standard_Reg,Antrag,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,20,0,experiment,NULL,Button,cab085d1-effb-26c3-b8e6-349bd9c1db7a,Click,Click,1592986329172,19,1,Standard_Reg,Antrag,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,20,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986329178,19,1,Standard_Reg,Antrag,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,20,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986330556,19,1,Standard_Reg,Antrag,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,20,0,experiment,NULL,PennController,21,_Trial_,End,1592986330870,19,1,Standard_Reg,Antrag,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,21,0,experiment,NULL,PennController,22,_Trial_,Start,1592986330875,20,1,Standard_Reg,Champagner,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,21,0,experiment,NULL,Button,afdc90f3-df74-eb88-eb69-e0cc83551f5f,Click,Click,1592986334300,20,1,Standard_Reg,Champagner,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,21,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986334305,20,1,Standard_Reg,Champagner,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,21,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986336250,20,1,Standard_Reg,Champagner,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,21,0,experiment,NULL,PennController,22,_Trial_,End,1592986336556,20,1,Standard_Reg,Champagner,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,22,0,experiment,NULL,PennController,23,_Trial_,Start,1592986336561,21,1,Standard_Reg,Bauch,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,22,0,experiment,NULL,Button,1667c746-e70f-0567-1fc6-bbb22445cc97,Click,Click,1592986339418,21,1,Standard_Reg,Bauch,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,22,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986339423,21,1,Standard_Reg,Bauch,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,22,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986340174,21,1,Standard_Reg,Bauch,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,22,0,experiment,NULL,PennController,23,_Trial_,End,1592986340488,21,1,Standard_Reg,Bauch,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,23,0,experiment,NULL,PennController,24,_Trial_,Start,1592986340494,22,1,Standard_Reg,Hund,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,23,0,experiment,NULL,Button,e4849b6b-7463-8b28-c837-dae5b25c38a3,Click,Click,1592986344348,22,1,Standard_Reg,Hund,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,23,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986344354,22,1,Standard_Reg,Hund,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,23,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986345198,22,1,Standard_Reg,Hund,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,23,0,experiment,NULL,PennController,24,_Trial_,End,1592986345513,22,1,Standard_Reg,Hund,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,24,0,experiment,NULL,PennController,25,_Trial_,Start,1592986345520,23,1,Standard_Reg,Haare,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,24,0,experiment,NULL,Button,c442c323-3471-6335-6986-1f0150cd41f2,Click,Click,1592986348087,23,1,Standard_Reg,Haare,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,24,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986348093,23,1,Standard_Reg,Haare,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,24,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986348938,23,1,Standard_Reg,Haare,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,24,0,experiment,NULL,PennController,25,_Trial_,End,1592986349247,23,1,Standard_Reg,Haare,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,25,0,experiment,NULL,PennController,26,_Trial_,Start,1592986349257,24,1,Standard_Reg,Flasche,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,25,0,experiment,NULL,Button,585830cd-65e6-d983-4463-13dcf6514640,Click,Click,1592986351480,24,1,Standard_Reg,Flasche,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,25,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986351485,24,1,Standard_Reg,Flasche,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,25,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986352132,24,1,Standard_Reg,Flasche,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,25,0,experiment,NULL,PennController,26,_Trial_,End,1592986352443,24,1,Standard_Reg,Flasche,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,26,0,experiment,NULL,PennController,27,_Trial_,Start,1592986352449,25,1,Standard_Reg,F&uuml;&szlig;e,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,26,0,experiment,NULL,Button,bc6151f8-2319-c259-2355-b86aecd99b43,Click,Click,1592986355177,25,1,Standard_Reg,F&uuml;&szlig;e,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,26,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986355182,25,1,Standard_Reg,F&uuml;&szlig;e,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,26,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986355856,25,1,Standard_Reg,F&uuml;&szlig;e,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,26,0,experiment,NULL,PennController,27,_Trial_,End,1592986356175,25,1,Standard_Reg,F&uuml;&szlig;e,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,27,0,experiment,NULL,PennController,28,_Trial_,Start,1592986356179,26,1,Standard_Reg,Residenz,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,27,0,experiment,NULL,Button,5fecd8fe-b934-9f49-ce87-eb96d04d2b12,Click,Click,1592986359598,26,1,Standard_Reg,Residenz,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,27,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986359603,26,1,Standard_Reg,Residenz,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,27,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986360099,26,1,Standard_Reg,Residenz,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,27,0,experiment,NULL,PennController,28,_Trial_,End,1592986360408,26,1,Standard_Reg,Residenz,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,28,0,experiment,NULL,PennController,29,_Trial_,Start,1592986360413,27,1,Standard_Reg,Kleider,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,28,0,experiment,NULL,Button,79d323f9-ea65-c6ef-0568-eec6d3eaced0,Click,Click,1592986363283,27,1,Standard_Reg,Kleider,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,28,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986363291,27,1,Standard_Reg,Kleider,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,28,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986363918,27,1,Standard_Reg,Kleider,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,28,0,experiment,NULL,PennController,29,_Trial_,End,1592986364237,27,1,Standard_Reg,Kleider,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,29,0,experiment,NULL,PennController,30,_Trial_,Start,1592986364244,28,1,Standard_Reg,Geige,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,29,0,experiment,NULL,Button,e4e938d9-d717-e2e7-d3f5-20a92c25c505,Click,Click,1592986366862,28,1,Standard_Reg,Geige,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,29,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986366868,28,1,Standard_Reg,Geige,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,29,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986367644,28,1,Standard_Reg,Geige,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,29,0,experiment,NULL,PennController,30,_Trial_,End,1592986367952,28,1,Standard_Reg,Geige,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,30,0,experiment,NULL,PennController,31,_Trial_,Start,1592986367958,29,1,Standard_Reg,Zigarre,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,30,0,experiment,NULL,Button,f1ea7e0c-01c1-f5e2-27e4-50c4da6d269f,Click,Click,1592986370643,29,1,Standard_Reg,Zigarre,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,30,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986370651,29,1,Standard_Reg,Zigarre,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,30,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986371155,29,1,Standard_Reg,Zigarre,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,30,0,experiment,NULL,PennController,31,_Trial_,End,1592986371466,29,1,Standard_Reg,Zigarre,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,31,0,experiment,NULL,PennController,32,_Trial_,Start,1592986371471,30,1,Standard_Reg,Sch&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,31,0,experiment,NULL,Button,8ac81cd3-d5e2-1c65-f26c-63cbef7ddf7b,Click,Click,1592986374272,30,1,Standard_Reg,Sch&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,31,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986374277,30,1,Standard_Reg,Sch&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,31,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986375326,30,1,Standard_Reg,Sch&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,31,0,experiment,NULL,PennController,32,_Trial_,End,1592986375629,30,1,Standard_Reg,Sch&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,32,0,experiment,NULL,PennController,33,_Trial_,Start,1592986375634,31,1,Standard_Reg,Pistole,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,32,0,experiment,NULL,Button,d8872470-ccd7-6589-d622-437b83a1f5c6,Click,Click,1592986378233,31,1,Standard_Reg,Pistole,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,32,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986378238,31,1,Standard_Reg,Pistole,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,32,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986378876,31,1,Standard_Reg,Pistole,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,32,0,experiment,NULL,PennController,33,_Trial_,End,1592986379184,31,1,Standard_Reg,Pistole,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,33,0,experiment,NULL,PennController,34,_Trial_,Start,1592986379189,32,1,Standard_Reg,Arznei,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,33,0,experiment,NULL,Button,e328138f-5bde-69aa-42c6-e10b095f8060,Click,Click,1592986381884,32,1,Standard_Reg,Arznei,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,33,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986381889,32,1,Standard_Reg,Arznei,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,33,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986382525,32,1,Standard_Reg,Arznei,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,33,0,experiment,NULL,PennController,34,_Trial_,End,1592986382830,32,1,Standard_Reg,Arznei,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,34,0,experiment,NULL,PennController,35,_Trial_,Start,1592986382837,33,1,Standard_Reg,Schorle,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,34,0,experiment,NULL,Button,869ac741-8a86-6732-6ed8-d5113275be89,Click,Click,1592986385619,33,1,Standard_Reg,Schorle,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,34,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986385625,33,1,Standard_Reg,Schorle,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,34,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986386418,33,1,Standard_Reg,Schorle,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,34,0,experiment,NULL,PennController,35,_Trial_,End,1592986386729,33,1,Standard_Reg,Schorle,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,35,0,experiment,NULL,PennController,36,_Trial_,Start,1592986386735,34,1,Standard_Reg,B&uuml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,35,0,experiment,NULL,Button,8de133cd-1c84-2663-c1cb-d6ee049b2e9c,Click,Click,1592986389861,34,1,Standard_Reg,B&uuml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,35,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986389867,34,1,Standard_Reg,B&uuml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,35,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986390487,34,1,Standard_Reg,B&uuml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,35,0,experiment,NULL,PennController,36,_Trial_,End,1592986390791,34,1,Standard_Reg,B&uuml;cher,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,36,0,experiment,NULL,PennController,37,_Trial_,Start,1592986390795,35,1,Standard_Reg,Augen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,36,0,experiment,NULL,Button,f93f7d68-5ad8-5909-3eec-40d54acc9639,Click,Click,1592986393534,35,1,Standard_Reg,Augen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,36,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986393538,35,1,Standard_Reg,Augen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,36,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986394524,35,1,Standard_Reg,Augen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,36,0,experiment,NULL,PennController,37,_Trial_,End,1592986394836,35,1,Standard_Reg,Augen,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,37,0,experiment,NULL,PennController,38,_Trial_,Start,1592986394841,36,1,Standard_Reg,Lampe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,37,0,experiment,NULL,Button,df962d7c-98fe-73e3-d304-3bf4c0741644,Click,Click,1592986397311,36,1,Standard_Reg,Lampe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,37,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986397317,36,1,Standard_Reg,Lampe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,37,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986397852,36,1,Standard_Reg,Lampe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,37,0,experiment,NULL,PennController,38,_Trial_,End,1592986398169,36,1,Standard_Reg,Lampe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,38,0,experiment,NULL,PennController,39,_Trial_,Start,1592986398175,37,1,Standard_Reg,Finger,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,38,0,experiment,NULL,Button,a3f7dc5f-5e69-3a6b-e0d9-24733ffb92a8,Click,Click,1592986400358,37,1,Standard_Reg,Finger,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,38,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986400362,37,1,Standard_Reg,Finger,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,38,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986400996,37,1,Standard_Reg,Finger,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,38,0,experiment,NULL,PennController,39,_Trial_,End,1592986401311,37,1,Standard_Reg,Finger,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,39,0,experiment,NULL,PennController,40,_Trial_,Start,1592986401318,38,1,Standard_Reg,Getr&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,39,0,experiment,NULL,Button,66afee44-a5e8-3771-4eea-6faa01a828d5,Click,Click,1592986403792,38,1,Standard_Reg,Getr&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,39,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986403798,38,1,Standard_Reg,Getr&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,39,0,experiment,NULL,Selector,select_once,Selection,Bild2,1592986404767,38,1,Standard_Reg,Getr&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,39,0,experiment,NULL,PennController,40,_Trial_,End,1592986405081,38,1,Standard_Reg,Getr&auml;nke,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,40,0,experiment,NULL,PennController,41,_Trial_,Start,1592986405086,39,1,Standard_Reg,Hausschuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,40,0,experiment,NULL,Button,5aa5426c-f9bb-bebd-a716-8687bcf68bb9,Click,Click,1592986407537,39,1,Standard_Reg,Hausschuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,40,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986407544,39,1,Standard_Reg,Hausschuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,40,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986408428,39,1,Standard_Reg,Hausschuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,40,0,experiment,NULL,PennController,41,_Trial_,End,1592986408741,39,1,Standard_Reg,Hausschuhe,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,41,0,experiment,NULL,PennController,42,_Trial_,Start,1592986408747,40,1,Standard_Reg,Pension,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,41,0,experiment,NULL,Button,35571547-5f56-5916-7e39-157b532b7c96,Click,Click,1592986411608,40,1,Standard_Reg,Pension,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,41,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1592986411614,40,1,Standard_Reg,Pension,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,41,0,experiment,NULL,Selector,select_once,Selection,Bild1,1592986412753,40,1,Standard_Reg,Pension,NULL
+1592986385,a63d1977239c96754d6f6cf9d15db94e,PennController,41,0,experiment,NULL,PennController,42,_Trial_,End,1592986413069,40,1,Standard_Reg,Pension,NULL
+#
+# Results on Wednesday July 01 2020 08:40:10 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+# Design number was non-random = 99
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ItemNum.
+# 14. List.
+# 15. Listtype.
+# 16. Wort.
+# 17. Comments.
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,2,0,experiment,NULL,PennController,3,_Trial_,Start,1593591799927,1,1,Standard_Reg,<b>Kleidung</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,2,0,experiment,NULL,Button,7b7b37a8-6d14-b48c-1aa0-0f39cf94bed5,Click,Click,1593591807170,1,1,Standard_Reg,<b>Kleidung</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,2,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593591807201,1,1,Standard_Reg,<b>Kleidung</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,2,0,experiment,NULL,Selector,select_once,Selection,Bild2,1593591807795,1,1,Standard_Reg,<b>Kleidung</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,2,0,experiment,NULL,PennController,3,_Trial_,End,1593591808119,1,1,Standard_Reg,<b>Kleidung</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,3,0,experiment,NULL,PennController,4,_Trial_,Start,1593591808133,2,1,Standard_Reg,<b>Schuhe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,3,0,experiment,NULL,Button,a487c4b2-14df-7042-2ffe-cbc51643339a,Click,Click,1593591811556,2,1,Standard_Reg,<b>Schuhe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,3,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593591811577,2,1,Standard_Reg,<b>Schuhe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,3,0,experiment,NULL,Selector,select_once,Selection,Bild2,1593591812507,2,1,Standard_Reg,<b>Schuhe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,3,0,experiment,NULL,PennController,4,_Trial_,End,1593591812830,2,1,Standard_Reg,<b>Schuhe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,4,0,experiment,NULL,PennController,5,_Trial_,Start,1593591812845,3,1,Standard_Reg, <b>Wohnung </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,4,0,experiment,NULL,Button,6c731f42-d237-2751-1256-3293af235587,Click,Click,1593591817898,3,1,Standard_Reg, <b>Wohnung </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,4,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593591817916,3,1,Standard_Reg, <b>Wohnung </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,4,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593591823714,3,1,Standard_Reg, <b>Wohnung </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,4,0,experiment,NULL,PennController,5,_Trial_,End,1593591824023,3,1,Standard_Reg, <b>Wohnung </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,5,0,experiment,NULL,PennController,6,_Trial_,Start,1593591824036,4,1,Standard_Reg,<b>Ohren </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,5,0,experiment,NULL,Button,eb14ed09-f709-533d-ae19-4714612b650a,Click,Click,1593591825750,4,1,Standard_Reg,<b>Ohren </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,5,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593591825765,4,1,Standard_Reg,<b>Ohren </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,5,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593591834928,4,1,Standard_Reg,<b>Ohren </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,5,0,experiment,NULL,PennController,6,_Trial_,End,1593591835255,4,1,Standard_Reg,<b>Ohren </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,6,0,experiment,NULL,PennController,7,_Trial_,Start,1593591835274,5,1,Standard_Reg,<b>Gem&auml;cher</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,6,0,experiment,NULL,Button,b8932655-faea-566b-d14b-e407c8c4faa5,Click,Click,1593591964938,5,1,Standard_Reg,<b>Gem&auml;cher</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,6,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593591964961,5,1,Standard_Reg,<b>Gem&auml;cher</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,6,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593591965793,5,1,Standard_Reg,<b>Gem&auml;cher</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,6,0,experiment,NULL,PennController,7,_Trial_,End,1593591966113,5,1,Standard_Reg,<b>Gem&auml;cher</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,7,0,experiment,NULL,PennController,8,_Trial_,Start,1593591966128,6,1,Standard_Reg,<b>Tassen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,7,0,experiment,NULL,Button,04d88c05-84d0-a7d4-10ba-75cbfcd75a2b,Click,Click,1593591973813,6,1,Standard_Reg,<b>Tassen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,7,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593591973835,6,1,Standard_Reg,<b>Tassen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,7,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593591974735,6,1,Standard_Reg,<b>Tassen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,7,0,experiment,NULL,PennController,8,_Trial_,End,1593591975057,6,1,Standard_Reg,<b>Tassen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,8,0,experiment,NULL,PennController,9,_Trial_,Start,1593591975070,7,1,Standard_Reg,<b>Fahrrad </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,8,0,experiment,NULL,Button,4bb0f8f5-6823-0141-243a-ab7fd3fc5f96,Click,Click,1593591980721,7,1,Standard_Reg,<b>Fahrrad </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,8,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593591980739,7,1,Standard_Reg,<b>Fahrrad </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,8,0,experiment,NULL,Selector,select_once,Selection,Bild2,1593592010982,7,1,Standard_Reg,<b>Fahrrad </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,8,0,experiment,NULL,PennController,9,_Trial_,End,1593592011304,7,1,Standard_Reg,<b>Fahrrad </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,9,0,experiment,NULL,PennController,10,_Trial_,Start,1593592011315,8,1,Standard_Reg,<b>Gem&uuml;se </b>?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,9,0,experiment,NULL,Button,6030574d-a5b2-c322-83c3-fddafac10580,Click,Click,1593592015633,8,1,Standard_Reg,<b>Gem&uuml;se </b>?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,9,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592015657,8,1,Standard_Reg,<b>Gem&uuml;se </b>?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,9,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592023166,8,1,Standard_Reg,<b>Gem&uuml;se </b>?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,9,0,experiment,NULL,PennController,10,_Trial_,End,1593592023480,8,1,Standard_Reg,<b>Gem&uuml;se </b>?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,10,0,experiment,NULL,PennController,11,_Trial_,Start,1593592023490,9,1,Standard_Reg,<b>Autos </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,10,0,experiment,NULL,Button,4a33fd90-9417-2665-55c0-713424bc259c,Click,Click,1593592025437,9,1,Standard_Reg,<b>Autos </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,10,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592025457,9,1,Standard_Reg,<b>Autos </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,10,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592031236,9,1,Standard_Reg,<b>Autos </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,10,0,experiment,NULL,PennController,11,_Trial_,End,1593592031542,9,1,Standard_Reg,<b>Autos </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,11,0,experiment,NULL,PennController,12,_Trial_,Start,1593592031551,10,1,Standard_Reg,<b>Beine </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,11,0,experiment,NULL,Button,9e19086a-266e-da95-c479-50235e7c2b41,Click,Click,1593592033945,10,1,Standard_Reg,<b>Beine </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,11,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592033963,10,1,Standard_Reg,<b>Beine </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,11,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592039511,10,1,Standard_Reg,<b>Beine </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,11,0,experiment,NULL,PennController,12,_Trial_,End,1593592039821,10,1,Standard_Reg,<b>Beine </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,12,0,experiment,NULL,PennController,13,_Trial_,Start,1593592039828,11,1,Standard_Reg,<b>Hosen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,12,0,experiment,NULL,Button,ff757a5b-e203-28a0-9636-450ab414a4fe,Click,Click,1593592042967,11,1,Standard_Reg,<b>Hosen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,12,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592042986,11,1,Standard_Reg,<b>Hosen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,12,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592044949,11,1,Standard_Reg,<b>Hosen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,12,0,experiment,NULL,PennController,13,_Trial_,End,1593592045269,11,1,Standard_Reg,<b>Hosen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,13,0,experiment,NULL,PennController,14,_Trial_,Start,1593592045279,12,1,Standard_Reg,<b>Pferde </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,13,0,experiment,NULL,Button,f3f8176a-40e0-77f4-7990-1110f31e872b,Click,Click,1593592062731,12,1,Standard_Reg,<b>Pferde </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,13,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592062750,12,1,Standard_Reg,<b>Pferde </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,13,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592092329,12,1,Standard_Reg,<b>Pferde </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,13,0,experiment,NULL,PennController,14,_Trial_,End,1593592092642,12,1,Standard_Reg,<b>Pferde </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,14,0,experiment,NULL,PennController,15,_Trial_,Start,1593592092651,13,1,Standard_Reg,<b>Butterbrote </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,14,0,experiment,NULL,Button,eccb6917-ca84-9b4a-fd62-e96209c9d188,Click,Click,1593592094709,13,1,Standard_Reg,<b>Butterbrote </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,14,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592094729,13,1,Standard_Reg,<b>Butterbrote </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,14,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592097197,13,1,Standard_Reg,<b>Butterbrote </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,14,0,experiment,NULL,PennController,15,_Trial_,End,1593592097505,13,1,Standard_Reg,<b>Butterbrote </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,15,0,experiment,NULL,PennController,16,_Trial_,Start,1593592097508,14,1,Standard_Reg,<b>Fingern&auml;gel </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,15,0,experiment,NULL,Button,f2931822-f4d5-ed71-7a8e-ab1e3f22d006,Click,Click,1593592104996,14,1,Standard_Reg,<b>Fingern&auml;gel </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,15,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592105014,14,1,Standard_Reg,<b>Fingern&auml;gel </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,15,0,experiment,NULL,Selector,select_once,Selection,Bild2,1593592133665,14,1,Standard_Reg,<b>Fingern&auml;gel </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,15,0,experiment,NULL,PennController,16,_Trial_,End,1593592133969,14,1,Standard_Reg,<b>Fingern&auml;gel </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,16,0,experiment,NULL,PennController,17,_Trial_,Start,1593592133976,15,1,Standard_Reg,<b>Essen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,16,0,experiment,NULL,Button,50f4f0f5-7233-80a8-5e93-1b65b804cb8b,Click,Click,1593592136021,15,1,Standard_Reg,<b>Essen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,16,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592136038,15,1,Standard_Reg,<b>Essen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,16,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592142511,15,1,Standard_Reg,<b>Essen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,16,0,experiment,NULL,PennController,17,_Trial_,End,1593592142832,15,1,Standard_Reg,<b>Essen </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,17,0,experiment,NULL,PennController,18,_Trial_,Start,1593592142841,16,1,Standard_Reg,<b>Geld </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,17,0,experiment,NULL,Button,08111922-b5db-8d65-19ae-ba9b691ea7a4,Click,Click,1593592144707,16,1,Standard_Reg,<b>Geld </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,17,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592144725,16,1,Standard_Reg,<b>Geld </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,17,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592149599,16,1,Standard_Reg,<b>Geld </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,17,0,experiment,NULL,PennController,18,_Trial_,End,1593592149911,16,1,Standard_Reg,<b>Geld </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,18,0,experiment,NULL,PennController,19,_Trial_,Start,1593592149917,17,1,Standard_Reg,<b>Tier </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,18,0,experiment,NULL,Button,86c5a88d-46a3-9229-db30-fa94a1e5d073,Click,Click,1593592151895,17,1,Standard_Reg,<b>Tier </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,18,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592151911,17,1,Standard_Reg,<b>Tier </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,18,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592161055,17,1,Standard_Reg,<b>Tier </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,18,0,experiment,NULL,PennController,19,_Trial_,End,1593592161370,17,1,Standard_Reg,<b>Tier </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,19,0,experiment,NULL,PennController,20,_Trial_,Start,1593592161377,18,1,Standard_Reg,<b>WC </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,19,0,experiment,NULL,Button,7de412d7-b4c3-a0c4-01d0-6c2837c1e38f,Click,Click,1593592162998,18,1,Standard_Reg,<b>WC </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,19,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592163016,18,1,Standard_Reg,<b>WC </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,19,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592190152,18,1,Standard_Reg,<b>WC </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,19,0,experiment,NULL,PennController,20,_Trial_,End,1593592190472,18,1,Standard_Reg,<b>WC </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,20,0,experiment,NULL,PennController,21,_Trial_,Start,1593592190490,19,1,Standard_Reg,<b>Antrag </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,20,0,experiment,NULL,Button,ce640879-5aac-bf0b-c432-08e5eaf78137,Click,Click,1593592192382,19,1,Standard_Reg,<b>Antrag </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,20,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592192397,19,1,Standard_Reg,<b>Antrag </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,20,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592219227,19,1,Standard_Reg,<b>Antrag </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,20,0,experiment,NULL,PennController,21,_Trial_,End,1593592219539,19,1,Standard_Reg,<b>Antrag </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,21,0,experiment,NULL,PennController,22,_Trial_,Start,1593592219546,20,1,Standard_Reg,<b>Champagner</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,21,0,experiment,NULL,Button,94b80880-1f14-d548-4cb4-f18a7b156272,Click,Click,1593592221632,20,1,Standard_Reg,<b>Champagner</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,21,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592221648,20,1,Standard_Reg,<b>Champagner</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,21,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592230636,20,1,Standard_Reg,<b>Champagner</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,21,0,experiment,NULL,PennController,22,_Trial_,End,1593592230949,20,1,Standard_Reg,<b>Champagner</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,22,0,experiment,NULL,PennController,23,_Trial_,Start,1593592230956,21,1,Standard_Reg,<b>Bauch </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,22,0,experiment,NULL,Button,b6203357-939b-153b-d5be-dd6ab48adc07,Click,Click,1593592233401,21,1,Standard_Reg,<b>Bauch </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,22,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592233417,21,1,Standard_Reg,<b>Bauch </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,22,0,experiment,NULL,Selector,select_once,Selection,Bild2,1593592256035,21,1,Standard_Reg,<b>Bauch </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,22,0,experiment,NULL,PennController,23,_Trial_,End,1593592256351,21,1,Standard_Reg,<b>Bauch </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,23,0,experiment,NULL,PennController,24,_Trial_,Start,1593592256361,22,1,Standard_Reg,<b>Hund </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,23,0,experiment,NULL,Button,7a828e1a-0325-1d0f-d325-378c28e2a87a,Click,Click,1593592259395,22,1,Standard_Reg,<b>Hund </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,23,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592259411,22,1,Standard_Reg,<b>Hund </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,23,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592267157,22,1,Standard_Reg,<b>Hund </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,23,0,experiment,NULL,PennController,24,_Trial_,End,1593592267464,22,1,Standard_Reg,<b>Hund </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,24,0,experiment,NULL,PennController,25,_Trial_,Start,1593592267475,23,1,Standard_Reg,<b>Haare </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,24,0,experiment,NULL,Button,9e7f0236-4a3e-0fb1-31f8-b89453b2233f,Click,Click,1593592269355,23,1,Standard_Reg,<b>Haare </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,24,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592269369,23,1,Standard_Reg,<b>Haare </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,24,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592274214,23,1,Standard_Reg,<b>Haare </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,24,0,experiment,NULL,PennController,25,_Trial_,End,1593592274524,23,1,Standard_Reg,<b>Haare </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,25,0,experiment,NULL,PennController,26,_Trial_,Start,1593592274533,24,1,Standard_Reg,<b>Flasche</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,25,0,experiment,NULL,Button,3ad260ff-8f85-2eab-0b95-5244aa4d6630,Click,Click,1593592277092,24,1,Standard_Reg,<b>Flasche</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,25,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592277106,24,1,Standard_Reg,<b>Flasche</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,25,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592299419,24,1,Standard_Reg,<b>Flasche</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,25,0,experiment,NULL,PennController,26,_Trial_,End,1593592299729,24,1,Standard_Reg,<b>Flasche</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,26,0,experiment,NULL,PennController,27,_Trial_,Start,1593592299736,25,1,Standard_Reg,<b>F&uuml;&szlig;e </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,26,0,experiment,NULL,Button,2c15f647-4d0f-d722-7c28-fa0ccd560c2b,Click,Click,1593592302346,25,1,Standard_Reg,<b>F&uuml;&szlig;e </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,26,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592302362,25,1,Standard_Reg,<b>F&uuml;&szlig;e </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,26,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592304988,25,1,Standard_Reg,<b>F&uuml;&szlig;e </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,26,0,experiment,NULL,PennController,27,_Trial_,End,1593592305307,25,1,Standard_Reg,<b>F&uuml;&szlig;e </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,27,0,experiment,NULL,PennController,28,_Trial_,Start,1593592305316,26,1,Standard_Reg,<b>Residenz </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,27,0,experiment,NULL,Button,8518fc5a-db41-539b-a9ff-a59c83a28e45,Click,Click,1593592311423,26,1,Standard_Reg,<b>Residenz </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,27,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592311437,26,1,Standard_Reg,<b>Residenz </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,27,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592317490,26,1,Standard_Reg,<b>Residenz </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,27,0,experiment,NULL,PennController,28,_Trial_,End,1593592317802,26,1,Standard_Reg,<b>Residenz </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,28,0,experiment,NULL,PennController,29,_Trial_,Start,1593592317808,27,1,Standard_Reg,<b>Kleider</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,28,0,experiment,NULL,Button,7d700bba-d66a-b31b-475a-61f4702132df,Click,Click,1593592320095,27,1,Standard_Reg,<b>Kleider</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,28,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592320109,27,1,Standard_Reg,<b>Kleider</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,28,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592326176,27,1,Standard_Reg,<b>Kleider</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,28,0,experiment,NULL,PennController,29,_Trial_,End,1593592326480,27,1,Standard_Reg,<b>Kleider</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,29,0,experiment,NULL,PennController,30,_Trial_,Start,1593592326485,28,1,Standard_Reg,<b>Geige </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,29,0,experiment,NULL,Button,9c65eb89-b57e-6b52-e0e6-a472bac4b19a,Click,Click,1593592330170,28,1,Standard_Reg,<b>Geige </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,29,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592330185,28,1,Standard_Reg,<b>Geige </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,29,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592370999,28,1,Standard_Reg,<b>Geige </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,29,0,experiment,NULL,PennController,30,_Trial_,End,1593592371305,28,1,Standard_Reg,<b>Geige </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,30,0,experiment,NULL,PennController,31,_Trial_,Start,1593592371312,29,1,Standard_Reg,<b>Zigarre</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,30,0,experiment,NULL,Button,ec633f97-4feb-fe1f-4fde-1df4b8e3629e,Click,Click,1593592379388,29,1,Standard_Reg,<b>Zigarre</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,30,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592379403,29,1,Standard_Reg,<b>Zigarre</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,30,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592697123,29,1,Standard_Reg,<b>Zigarre</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,30,0,experiment,NULL,PennController,31,_Trial_,End,1593592697442,29,1,Standard_Reg,<b>Zigarre</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,31,0,experiment,NULL,PennController,32,_Trial_,Start,1593592697450,30,1,Standard_Reg,<b>Sch&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,31,0,experiment,NULL,Button,5fc65444-69d1-14a5-941d-88cbfeea8b26,Click,Click,1593592715104,30,1,Standard_Reg,<b>Sch&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,31,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592715120,30,1,Standard_Reg,<b>Sch&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,31,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592723376,30,1,Standard_Reg,<b>Sch&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,31,0,experiment,NULL,PennController,32,_Trial_,End,1593592723696,30,1,Standard_Reg,<b>Sch&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,32,0,experiment,NULL,PennController,33,_Trial_,Start,1593592723701,31,1,Standard_Reg,<b>Pistole</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,32,0,experiment,NULL,Button,c008787a-987a-d027-74a2-53df9cb74406,Click,Click,1593592725684,31,1,Standard_Reg,<b>Pistole</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,32,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592725700,31,1,Standard_Reg,<b>Pistole</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,32,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592727405,31,1,Standard_Reg,<b>Pistole</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,32,0,experiment,NULL,PennController,33,_Trial_,End,1593592727710,31,1,Standard_Reg,<b>Pistole</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,33,0,experiment,NULL,PennController,34,_Trial_,Start,1593592727715,32,1,Standard_Reg,<b>Arznei</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,33,0,experiment,NULL,Button,b04b6cf8-e929-b33f-3988-bcc829b6db4d,Click,Click,1593592733041,32,1,Standard_Reg,<b>Arznei</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,33,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592733059,32,1,Standard_Reg,<b>Arznei</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,33,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592733750,32,1,Standard_Reg,<b>Arznei</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,33,0,experiment,NULL,PennController,34,_Trial_,End,1593592734056,32,1,Standard_Reg,<b>Arznei</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,34,0,experiment,NULL,PennController,35,_Trial_,Start,1593592734063,33,1,Standard_Reg,<b>Schorle</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,34,0,experiment,NULL,Button,4a3b3540-38f4-8266-679a-cbc78d681e3c,Click,Click,1593592738685,33,1,Standard_Reg,<b>Schorle</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,34,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592738699,33,1,Standard_Reg,<b>Schorle</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,34,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592739794,33,1,Standard_Reg,<b>Schorle</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,34,0,experiment,NULL,PennController,35,_Trial_,End,1593592740103,33,1,Standard_Reg,<b>Schorle</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,35,0,experiment,NULL,PennController,36,_Trial_,Start,1593592740108,34,1,Standard_Reg,<b>B&uuml;cher</b>  ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,35,0,experiment,NULL,Button,0abe93cd-fa50-ab37-a280-5514f0b22c18,Click,Click,1593592767176,34,1,Standard_Reg,<b>B&uuml;cher</b>  ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,35,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592767192,34,1,Standard_Reg,<b>B&uuml;cher</b>  ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,35,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592767900,34,1,Standard_Reg,<b>B&uuml;cher</b>  ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,35,0,experiment,NULL,PennController,36,_Trial_,End,1593592768208,34,1,Standard_Reg,<b>B&uuml;cher</b>  ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,36,0,experiment,NULL,PennController,37,_Trial_,Start,1593592768213,35,1,Standard_Reg,<b>Augen</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,36,0,experiment,NULL,Button,784de05a-6a13-e3c0-223b-330277aca21f,Click,Click,1593592773756,35,1,Standard_Reg,<b>Augen</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,36,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592773771,35,1,Standard_Reg,<b>Augen</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,36,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592782427,35,1,Standard_Reg,<b>Augen</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,36,0,experiment,NULL,PennController,37,_Trial_,End,1593592782747,35,1,Standard_Reg,<b>Augen</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,37,0,experiment,NULL,PennController,38,_Trial_,Start,1593592782753,36,1,Standard_Reg,<b>Lampe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,37,0,experiment,NULL,Button,1391c637-5f5b-2bba-84df-f3f054134cb2,Click,Click,1593592784936,36,1,Standard_Reg,<b>Lampe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,37,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592784952,36,1,Standard_Reg,<b>Lampe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,37,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592786684,36,1,Standard_Reg,<b>Lampe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,37,0,experiment,NULL,PennController,38,_Trial_,End,1593592786994,36,1,Standard_Reg,<b>Lampe </b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,38,0,experiment,NULL,PennController,39,_Trial_,Start,1593592787000,37,1,Standard_Reg,<b>Finger</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,38,0,experiment,NULL,Button,68ca228c-c7a7-b82a-faa8-b795efb7ee34,Click,Click,1593592792833,37,1,Standard_Reg,<b>Finger</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,38,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592792850,37,1,Standard_Reg,<b>Finger</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,38,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592794568,37,1,Standard_Reg,<b>Finger</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,38,0,experiment,NULL,PennController,39,_Trial_,End,1593592794873,37,1,Standard_Reg,<b>Finger</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,39,0,experiment,NULL,PennController,40,_Trial_,Start,1593592794879,38,1,Standard_Reg,<b>Getr&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,39,0,experiment,NULL,Button,87898704-33b1-bc56-6223-c627999647bd,Click,Click,1593592798921,38,1,Standard_Reg,<b>Getr&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,39,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592798938,38,1,Standard_Reg,<b>Getr&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,39,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592817170,38,1,Standard_Reg,<b>Getr&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,39,0,experiment,NULL,PennController,40,_Trial_,End,1593592817477,38,1,Standard_Reg,<b>Getr&auml;nke</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,40,0,experiment,NULL,PennController,41,_Trial_,Start,1593592817482,39,1,Standard_Reg,<b>Hausschuhe</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,40,0,experiment,NULL,Button,546cc971-be8d-22ad-036f-63e62e467301,Click,Click,1593592820017,39,1,Standard_Reg,<b>Hausschuhe</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,40,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592820036,39,1,Standard_Reg,<b>Hausschuhe</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,40,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592828346,39,1,Standard_Reg,<b>Hausschuhe</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,40,0,experiment,NULL,PennController,41,_Trial_,End,1593592828654,39,1,Standard_Reg,<b>Hausschuhe</b> ?,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,41,0,experiment,NULL,PennController,42,_Trial_,Start,1593592828659,40,1,Standard_Reg,<b>Pension </b> ? ,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,41,0,experiment,NULL,Button,4a3dfb23-5cfb-5864-dbaf-df46dbd3f8c8,Click,Click,1593592830488,40,1,Standard_Reg,<b>Pension </b> ? ,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,41,0,experiment,NULL,Canvas,imagecanvas,Print,NA,1593592830502,40,1,Standard_Reg,<b>Pension </b> ? ,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,41,0,experiment,NULL,Selector,select_once,Selection,Bild1,1593592835914,40,1,Standard_Reg,<b>Pension </b> ? ,NULL
+1593592810,0a8cac698e4495381e3358fc30f3b5ac,PennController,41,0,experiment,NULL,PennController,42,_Trial_,End,1593592836234,40,1,Standard_Reg,<b>Pension </b> ? ,NULL
